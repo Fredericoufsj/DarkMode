@@ -1,8 +1,9 @@
 # Manipulando o DOM
 
 Projeto referente ao curso "Manipulando o DOM" pela [Digital Innovation One]
+Todo o HTML e o CSS foi cedido, ficando como exercício o desenvolvimento do JS.
 
-## Atividade: Light Mode/Dark Mode
+## Atividade proposta: Light Mode/Dark Mode
 
 1. Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
 2. Copie o HTML e o CSS deste repositório
